@@ -12,5 +12,13 @@
     "新浪.微博"
   ],
   "author": "inu1255",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inu1255/sina-weibo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inu1255/sina-weibo/issues"
+  },
+  "homepage": "https://github.com/inu1255/sina-weibo#readme"
 }
